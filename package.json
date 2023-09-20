@@ -1,7 +1,7 @@
 {
-  "homepage": "https://Muharax.github.io/skynet_in_React",
-  "name": "skynet",
-  "version": "0.1.0",
+  "homepage": "https://Muharax.github.io/nv-game",
+  "name": "NV GAME",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@apollo/client": "^3.7.17",
