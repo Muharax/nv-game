@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/skynet_in_React/static/css/main.3091fe45.css",
-    "main.js": "/skynet_in_React/static/js/main.bb3a5898.js",
-    "static/media/mapa.jpg": "/skynet_in_React/static/media/mapa.dc2d3efbb286bd3ecc70.jpg",
-    "static/media/image0.jpg": "/skynet_in_React/static/media/image0.9384728c56f835a0d722.jpg",
-    "static/media/twoj-dom.png": "/skynet_in_React/static/media/twoj-dom.c33bf04a81ec7387bf43.png",
-    "index.html": "/skynet_in_React/index.html",
-    "main.3091fe45.css.map": "/skynet_in_React/static/css/main.3091fe45.css.map",
-    "main.bb3a5898.js.map": "/skynet_in_React/static/js/main.bb3a5898.js.map"
+    "main.css": "/nv-game/static/css/main.8c36ac03.css",
+    "main.js": "/nv-game/static/js/main.dae6b9bd.js",
+    "static/media/mapa.jpg": "/nv-game/static/media/mapa.dc2d3efbb286bd3ecc70.jpg",
+    "static/media/image0.jpg": "/nv-game/static/media/image0.9384728c56f835a0d722.jpg",
+    "static/media/twoj-dom.png": "/nv-game/static/media/twoj-dom.c33bf04a81ec7387bf43.png",
+    "index.html": "/nv-game/index.html",
+    "main.8c36ac03.css.map": "/nv-game/static/css/main.8c36ac03.css.map",
+    "main.dae6b9bd.js.map": "/nv-game/static/js/main.dae6b9bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.3091fe45.css",
-    "static/js/main.bb3a5898.js"
+    "static/css/main.8c36ac03.css",
+    "static/js/main.dae6b9bd.js"
   ]
 }
