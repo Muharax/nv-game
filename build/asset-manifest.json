@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skynet_in_React/static/css/main.1483e29e.css",
+    "main.js": "/skynet_in_React/static/js/main.b6a5c806.js",
+    "static/media/image0.jpg": "/skynet_in_React/static/media/image0.9384728c56f835a0d722.jpg",
+    "static/media/logo.png": "/skynet_in_React/static/media/logo.f5f5416ca4f84c787b95.png",
+    "index.html": "/skynet_in_React/index.html",
+    "main.1483e29e.css.map": "/skynet_in_React/static/css/main.1483e29e.css.map",
+    "main.b6a5c806.js.map": "/skynet_in_React/static/js/main.b6a5c806.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1483e29e.css",
+    "static/js/main.b6a5c806.js"
+  ]
+}

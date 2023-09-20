@@ -1,0 +1,12 @@
+:root {
+  --main-color: #eee;
+  --window-load-color:#fff;
+  --search:#d5d5d5;
+}
+a{
+  text-decoration: none;
+}
+html, body{
+  margin: 0;
+  padding: 0;
+}
