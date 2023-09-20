@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nv-game/static/css/main.bc257b0c.css",
-    "main.js": "/nv-game/static/js/main.a51d20e1.js",
-    "static/media/image0.jpg": "/nv-game/static/media/image0.9384728c56f835a0d722.jpg",
-    "static/media/logo.png": "/nv-game/static/media/logo.f5f5416ca4f84c787b95.png",
-    "index.html": "/nv-game/index.html",
-    "main.bc257b0c.css.map": "/nv-game/static/css/main.bc257b0c.css.map",
-    "main.a51d20e1.js.map": "/nv-game/static/js/main.a51d20e1.js.map"
+    "main.css": "/skynet_in_React/static/css/main.bf7c1fce.css",
+    "main.js": "/skynet_in_React/static/js/main.90f05860.js",
+    "static/media/image0.jpg": "/skynet_in_React/static/media/image0.9384728c56f835a0d722.jpg",
+    "static/media/logo.png": "/skynet_in_React/static/media/logo.f5f5416ca4f84c787b95.png",
+    "index.html": "/skynet_in_React/index.html",
+    "main.bf7c1fce.css.map": "/skynet_in_React/static/css/main.bf7c1fce.css.map",
+    "main.90f05860.js.map": "/skynet_in_React/static/js/main.90f05860.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc257b0c.css",
-    "static/js/main.a51d20e1.js"
+    "static/css/main.bf7c1fce.css",
+    "static/js/main.90f05860.js"
   ]
 }
