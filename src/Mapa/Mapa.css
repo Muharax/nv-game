@@ -1,0 +1,22 @@
+.mapa {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('./img/mapa.jpg');
+  /* background-size: cover; */
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.twoj-dom{
+  position: relative;
+  left: 700px;
+  top: 400px;
+  box-shadow: 0px 0px 1px 1px yellow;
+  transition: 0.3s;
+  cursor: pointer;
+}
+.twoj-dom:hover{
+  box-shadow: 0px 0px 3px 3px yellow;
+  transform: translateY(-10px);
+}

@@ -1,9 +1,9 @@
 {
-  "short_name": "Skynet",
-  "name": "Cyberdyne Systems",
+  "short_name": "ATOM 2056",
+  "name": "NV GAME",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "favicon.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },

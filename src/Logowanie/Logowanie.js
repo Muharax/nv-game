@@ -94,7 +94,7 @@ function Logowanie({ handleLogin }) {
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
                 className="w100"
-                // required
+                required
               />
             </div>
 
@@ -110,25 +110,31 @@ function Logowanie({ handleLogin }) {
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 className="w100"
-                // required
+                required
               />
             </div>
 
-            <div id="btn-log-in">
+            <div>
               <div className="wrapper">
                 <div className="box">
-                  <button type="submit" className="log-in" id="sub">
+                  <button type="submit" className="btn btn-login" id="sub">
                     Zaloguj się
                   </button>
-                  <button type="button" className="log-in" id="forgot-my-password">
+                  <button type="button" className="btn btn-forgot-password" id="forgot-my-password">
                     Zapomniałem hasła
                   </button>
-                  <button type="button" className="log-in" id="registration">
-                    Rejestracja
-                  </button>
+                  
                 </div>
               </div>
             </div>
+
+            <div>
+            <button type="button" className="btn btn-registration" id="registration">
+                    Rejestracja
+            </button>
+            </div>
+
+
           </form>
         </div>
       </div>
@@ -146,7 +152,7 @@ function Logowanie({ handleLogin }) {
     </div>
 
     <div className="main-information">
-      <div>Jest rok 2056, ludzkość zakończyła wojny miedzy sobą</div>
+      
 
     </div>
 

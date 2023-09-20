@@ -28,7 +28,7 @@
   position: relative;
   top: 10%;
   left: 10%;
-  width: 50%;
+  width: 30%;
   border-radius: 7px;
 }
 .shotbox-topic{
@@ -41,4 +41,12 @@
 }
 .shotbox-description{
   padding: 10px;
+}
+.btn-login, .btn-forgot-password{
+  margin-left: 10px;
+  cursor: pointer;
+}
+.btn-registration{
+  position: absolute;
+  right: 40px;
 }
